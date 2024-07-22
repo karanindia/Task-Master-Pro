@@ -1,4 +1,4 @@
-FROM amazoncorretto:17.0.8-alpine3.18
+FROM 172.16.10.20:5000/karan/taskmaster:latest
     
 EXPOSE 8080
  
